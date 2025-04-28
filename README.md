@@ -3,6 +3,7 @@
 
 
 1) Data Exploration 
+
 2) Feature Extraction / Engineering
 
 To explore the data, I looked at correlation for all the data that we were given. I obviously stayed with finding the sentiment, polarity, and use of question marks and exclamation marks but then I further looked at some other things.
